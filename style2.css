@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 375px;
+    margin: 0 auto;
+    background-color: blue;
+    font-size: 20px;
+    color: aliceblue;
+    text-align: center;
+    display: flex;
+    /* flex-direction: row; */
+    flex-wrap: wrap;
+}
+/* 하단 */
+.container .item1{
+    width: 50%;
+    height: 200px;
+    background-color: rgb(126, 224, 27);
+}
+.container .item2{
+    width: 50%;
+    height: 200px;
+    background-color: rgb(195, 18, 226);
+}
+.container .item3{
+    width: 50%;
+    height: 200px;
+    background-color: rgb(83, 6, 216);
+}
+.container .item4{
+    width: 50%;
+    height: 200px;
+    background-color: rgb(36, 5, 88);
+}
+.container .item5{
+    width: 50%;
+    height: 200px;
+    background-color: rgb(125, 53, 249);
+}
+.container .item6{
+    width: 50%;
+    height: 200px;
+    background-color: rgb(77, 29, 159);
+}
